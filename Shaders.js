@@ -15,7 +15,7 @@ let app = new PIXI.Application({
 
 document.body.appendChild(app.view);
 
-const shaderFrag = `
+const shaderFrag = `   //  more info : https://thebookofshaders.com/04/
 
 precision mediump float;
 
